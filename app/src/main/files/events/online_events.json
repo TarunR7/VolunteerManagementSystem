@@ -1,0 +1,38 @@
+[ {
+  "id" : {
+    "id" : "8kav_ps="
+  },
+  "eventName" : "Sunfeast",
+  "organizer" : {
+    "id" : {
+      "id" : "nuy0"
+    },
+    "username" : "malloc",
+    "age" : 12,
+    "address" : {
+      "address" : "Chennai",
+      "coordinates" : {
+        "latitude" : 13.0836939,
+        "longitude" : 80.270186
+      }
+    },
+    "events" : [ {
+      "id" : "8kav_ps="
+    } ],
+    "contactNumber" : "3030327",
+    "contactMail" : "shudhesh@gmail.com"
+  },
+  "maxParticipants" : 45,
+  "maxVolunteers" : 34,
+  "contactNumber" : "3030327",
+  "contactEmail" : "shuddown@gmail.com",
+  "description" : "Promotional for new cookies",
+  "start" : [ 2023, 12, 21, 10, 30 ],
+  "end" : [ 2023, 12, 22, 16, 30 ],
+  "registeredAttendees" : [  ],
+  "registeredVolunteers" : [ {
+    "id" : "9hBo"
+  }],
+  "attendeeUrl" : "attendee.com",
+  "volunteerUrl" : "volunteer.com"
+} ]

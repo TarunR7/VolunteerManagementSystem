@@ -1,0 +1,18 @@
+[ {
+  "id" : {
+    "id" : "9hBo"
+  },
+  "username" : "John",
+  "age" : 13,
+  "address" : {
+    "address" : "Allahabad",
+    "coordinates" : {
+      "latitude" : 25.4381302,
+      "longitude" : 81.8338005
+    }
+  },
+  "events" : [ {
+    "id" : "8kav_ps="
+  } ],
+  "contactNumber" : "12323435"
+} ]

@@ -1,0 +1,35 @@
+[ {
+  "id" : {
+    "id" : "nuy0"
+  },
+  "username" : "malloc",
+  "age" : 12,
+  "address" : {
+    "address" : "Chennai",
+    "coordinates" : {
+      "latitude" : 13.0836939,
+      "longitude" : 80.270186
+    }
+  },
+  "events" : [ {
+    "id" : "8kav_ps="
+  } ],
+  "contactNumber" : "3030327",
+  "contactMail" : "shudhesh@gmail.com"
+}, {
+  "id" : {
+    "id" : "DUdI"
+  },
+  "username" : "John",
+  "age" : 12,
+  "address" : {
+    "address" : "Coimbatore",
+    "coordinates" : {
+      "latitude" : 11.0018115,
+      "longitude" : 76.9628425
+    }
+  },
+  "events" : [ ],
+  "contactNumber" : "asdfsafd",
+  "contactMail" : "adsff"
+} ]

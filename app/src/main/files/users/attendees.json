@@ -1,0 +1,15 @@
+[ {
+  "id" : {
+    "id" : "Kst5"
+  },
+  "username" : "havoc",
+  "age" : 23,
+  "address" : {
+    "address" : "Bangalore",
+    "coordinates" : {
+      "latitude" : 12.9767936,
+      "longitude" : 77.590082
+    }
+  },
+  "events" : [ ]
+} ]
